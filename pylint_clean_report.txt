@@ -1,0 +1,8 @@
+************* Module clean_inventory_system
+clean_inventory_system.py:93:0: C0304: Final newline missing (missing-final-newline)
+clean_inventory_system.py:60:4: C0206: Consider iterating with .items() (consider-using-dict-items)
+clean_inventory_system.py:67:4: C0206: Consider iterating with .items() (consider-using-dict-items)
+
+-----------------------------------
+Your code has been rated at 9.47/10
+
